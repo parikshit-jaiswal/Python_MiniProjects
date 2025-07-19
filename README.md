@@ -4,7 +4,7 @@ A comprehensive collection of AI-powered Python applications built with modern f
 
 ## 🚀 Projects Overview
 
-### 1. [AI Resume Roaster](./project1/) 🔥
+### 1. [AI Resume Roaster](./Resume_Roaster/) 🔥
 **Fun and insightful resume analysis tool**
 - **Description**: An AI-powered application that provides honest, humorous feedback on resumes for specific job roles
 - **Tech Stack**: Streamlit, Google Gemini AI, PyPDF2, python-dotenv
